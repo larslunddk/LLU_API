@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="LLU_Weather.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:LLU_Weather"
+    RequestedTheme="Light">
+
+</Application>
